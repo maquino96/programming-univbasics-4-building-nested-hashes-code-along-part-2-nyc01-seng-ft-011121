@@ -32,6 +32,8 @@ epic_tragedy[:capulet][:hero][:status] = "dead"
 puts epic_tragedy
 end
 
+update_status
+
 def add_characters
    epic_tragedy = {
       :montague => {
